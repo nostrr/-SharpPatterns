@@ -1,4 +1,5 @@
-﻿using System;
+﻿using FactoryMethod.Sample;
+using System;
 
 namespace СSharpPatterns.FactoryMethod
 {

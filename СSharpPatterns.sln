@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "СSharpPat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "Abstract Factory\AbstractFactory.csproj", "{ACFA4494-B707-4A86-BF22-10FCD8B05FE6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{F7DC1DA2-2667-4D20-B1D3-72D959B0C36E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{38A50CAC-8B9C-4E03-9D58-9D11BBB05A37} = {F7DC1DA2-2667-4D20-B1D3-72D959B0C36E}
+		{ACFA4494-B707-4A86-BF22-10FCD8B05FE6} = {F7DC1DA2-2667-4D20-B1D3-72D959B0C36E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A820190-82B8-474E-90A8-00C2393E4A0C}

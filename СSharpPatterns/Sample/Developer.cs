@@ -1,4 +1,4 @@
-﻿namespace СSharpPatterns.FactoryMethod
+﻿namespace FactoryMethod.Sample
 {
     // абстрактный класс строительной компании
     abstract class Developer

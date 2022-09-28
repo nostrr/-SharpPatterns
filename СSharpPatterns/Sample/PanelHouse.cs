@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace СSharpPatterns.FactoryMethod
+namespace FactoryMethod.Sample
 {
     class PanelHouse : House
     {

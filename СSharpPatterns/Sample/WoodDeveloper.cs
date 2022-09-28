@@ -1,4 +1,6 @@
-﻿namespace СSharpPatterns.FactoryMethod
+﻿using СSharpPatterns.FactoryMethod;
+
+namespace FactoryMethod.Sample
 {
     // строит деревянные дома
     class WoodDeveloper : Developer
